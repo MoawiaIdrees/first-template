@@ -1,4 +1,8 @@
 /* Start Global Variables */
+html 
+{
+    scroll-behavior: smooth;
+}
 :root 
 {
     --main-color: #10cab7;
@@ -549,6 +553,7 @@ p
         color: white;
         font-weight: 800;
         text-align: center;
+        letter-spacing: 2px;
     }
     .footer p span 
     {
